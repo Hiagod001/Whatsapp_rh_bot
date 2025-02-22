@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-trello-rh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "form-data": "^4.0.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.2.1",
+    "puppeteer-core": "^24.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "trello": "^0.11.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}

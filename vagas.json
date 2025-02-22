@@ -1,0 +1,14 @@
+{
+    "vagas": [
+        {
+            "id": "1",
+            "titulo": "Técnico de Suporte",
+            "descricao": "Responsável pelo atendimento ao cliente e manutenção de redes."
+        },
+        {
+            "id": "2",
+            "titulo": "Analista de Redes",
+            "descricao": "Gerenciamento e configuração de equipamentos de rede."
+        }
+    ]
+}
